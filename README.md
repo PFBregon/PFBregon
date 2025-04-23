@@ -3,10 +3,10 @@ I'm currently studying in a Full Stack Development Bootcamp at Factoria F5.
 
 ## 🚀 About me
 
-* 📸 I studied Photography and History of Arts 🖼️🎨.
-* 🗞️ I worked so many years as a photojournalist and when I retrained to find a new job, I started working as a social media and e-commerce manager. I loved it too.
-* 💾 I love computers since I was a Kid. The first time that I used a PC with 9 years old, it used 5¼ disk and MS-DOS yet 😱. Windows 95 and 3½ too... 
-* 💻 Now I'm trying to learn all kind of new things (for me) in a Full Stack Development Bootcamp with Factoria F5 (1100 hours). It would be fantastic to apply all this in a culture project or maybe in a marketing project too, now that I'm learning how we could do so many new cool things.
+* 📸 I studied Photography and History of Art 🖼️🎨.
+* 🗞️ I worked for many years as a photojournalist and when I reivented myself for a new career, I started working as a social media and e-commerce manager. I loved it too.
+* 💾 I've loved computers since I was a Kid. The first time I used a PC, I was 9 years old, it had a 5¼-inch floppy disk drive and MS-DOS yet 😱. Windows 95 and 3½ too... (Old, but not too old)
+* 💻 Now I'm learning all kind of new things (for me) in a Full Stack Development Bootcamp at Factoria F5 (1100 hours). It would be amazing to apply all this knowledge in a cultural or marketing marketing project too, now that I'm discoviring so many exciting posibilities.
 
 ## 📚 Languages and Tools
 
@@ -24,8 +24,7 @@ I'm currently studying in a Full Stack Development Bootcamp at Factoria F5.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p> 
-
+</p>
 
 
 ## 📩 Let's connect
