@@ -2,10 +2,12 @@
 
 ## 🚀 About me
 
-* 📸 I studied Photography and History of Art 🖼️🎨.
+* 📸 I studied Photography, Camera operator & video editor, and History of Art 🖼️🎨.
 * 🗞️ I worked for many years as a photojournalist and when I reivented myself for a new career, I started working as a social media and e-commerce manager. I loved it too.
 * 💾 I've loved computers since I was a Kid. The first time I used a PC, I was 9 years old, it had a 5¼-inch floppy disk drive and MS-DOS yet 😱. Windows 95 and 3½ too... (Old, but not too old)
-* 💻 Now I'm a Full Stack Developer learning to automate all kinds of processes by programming with AI, to make life easier and let you spend more time doing the parts of your job you love.
+* 💻 I've finished a Full Stack Developer Bootcamp at Factoria F5, and a IA Automation course where I started to learn to automate all kinds of processes by programming with AI.
+* 👩🏻‍💻 Now you can find me in i4life, a spin-of of Oviedo University that works to find solutions to care for people.
+I'm making automation to simplify life and let you spend more time doing the parts of your job that you love.
 
 ## 📚 Languages and Tools
 📚 Languages and Tools
